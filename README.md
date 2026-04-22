@@ -1,6 +1,6 @@
 # Tasko ✦ Advanced Task Manager
 
-Buttery yellow & white themed, feature-rich task manager. React + Vite, no backend.
+Buttery yellow & white themed, feature-rich task manager. React + Vite.
 
 ## 🚀 Quick Start
 
